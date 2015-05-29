@@ -200,8 +200,6 @@ public class StudentLWJGLController implements CS355LWJGLController
         // This clears the screen.
         glClear(GL_COLOR_BUFFER_BIT);
         
-        glColor3f(1.0f, 0.0f, 0.0f);
-        
         // Change model view matrix.
         glMatrixMode(GL_MODELVIEW);
         
