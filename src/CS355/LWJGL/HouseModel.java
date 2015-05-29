@@ -14,7 +14,7 @@ public class HouseModel extends WireFrame
     
     public HouseModel()
     {
-            //Make the object:
+        //Make the object:
         //Floor
         lines.add(new Line3D(new Point3D(-5,0,-5), new Point3D(5,0,-5)));
         lines.add(new Line3D(new Point3D(5,0,-5), new Point3D(5,0,5)));

@@ -1,6 +1,5 @@
 package CS355.LWJGL;
 
-import java.util.logging.Level;
 
 /**
  *
